@@ -15,6 +15,6 @@ pgAdmin4 SQL format.
 Pandas, BeautifulSoup, requests and from sqlalchemy import create_engine. 
 
 # Resources
-books.csv .- Downloaded from Kaggel, used to obtain the book's rating. 
+books.csv .- Downloaded from Kaggel, used to obtain the book's rating.                                                                                            
 websites used for scraping purposes: https://www.britannica.com/list/12-novels-considered-the-greatest-book-ever-written
 https://en.wikipedia.org/wiki/List_of_best-selling_books
