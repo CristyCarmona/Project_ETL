@@ -1,8 +1,7 @@
 # Project_ETL
 
-# Title:
-Best ever written books & best sellers.  
-
+# Title: Best ever written books & best sellers. 
+ 
 # Description:
 For the use of the public in general and for those who love books, a database is constructed and loaded into a server. The main difference between this and other
 existing databases is that more fields are considered as part of the junction of three already cleaned sources of information: “List of best-selling books” retrieved 
