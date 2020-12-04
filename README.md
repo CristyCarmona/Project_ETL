@@ -19,4 +19,4 @@ https://en.wikipedia.org/wiki/List_of_best-selling_books
 Pandas, BeautifulSoup, requests and from sqlalchemy import create_engine.
 
 ## Database diagram 
-![Diagram](https://github.com/CristyCarmona/Project_ETL_Best_Seller_Books/tree/master/img)
+![Diagram](https://github.com/CristyCarmona/Project_ETL_Best_Seller_Books/blob/master/img/database_diagram.png)
